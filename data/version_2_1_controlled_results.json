@@ -1,0 +1,777 @@
+{
+  "model": "GPT-5.6 Sol",
+  "execution_type": "controlled conversational run",
+  "independent_api_execution": false,
+  "run_count_per_case": 3,
+  "cases": [
+    {
+      "test_id": "TEST_01",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_02",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_03",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_04",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Cancellation"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Cancellation"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Cancellation"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_05",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Payment or Billing"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Payment or Billing"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Payment or Billing"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_06",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Account Access"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Account Access"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Account Access"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_07",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_08",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Other"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_09",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item",
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item",
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item",
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_10",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Order Status",
+              "Payment or Billing"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Order Status",
+              "Payment or Billing"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Order Status",
+              "Payment or Billing"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_11",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_12",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_13",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Return or Refund"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_14",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_15",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": [
+              "Order Status"
+            ]
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_16",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_17",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_18",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_19",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Account Access",
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Account Access",
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Account Access",
+              "Product Question"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_20",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": [
+              "Payment or Billing"
+            ]
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": [
+              "Payment or Billing"
+            ]
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": [
+              "Payment or Billing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_21",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": [
+              "Payment or Billing"
+            ]
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": [
+              "Payment or Billing"
+            ]
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": [
+              "Payment or Billing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_22",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Damaged or Incorrect Item"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_23",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [
+              "Order Status"
+            ],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    },
+    {
+      "test_id": "TEST_24",
+      "runs": [
+        {
+          "run": 1,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": []
+          }
+        },
+        {
+          "run": 2,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": [
+              "Damaged or Incorrect Item"
+            ]
+          }
+        },
+        {
+          "run": 3,
+          "output": {
+            "confirmed_categories": [],
+            "uncertain_categories": []
+          }
+        }
+      ]
+    }
+  ]
+}

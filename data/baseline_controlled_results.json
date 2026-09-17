@@ -1,0 +1,227 @@
+{
+  "model": "GPT-5.6 Sol",
+  "execution_type": "controlled conversational dry run",
+  "independent_api_execution": false,
+  "run_count_per_case": 1,
+  "cases": [
+    {
+      "test_id": "TEST_01",
+      "output": {
+        "detected_categories": [
+          "Order Status"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_02",
+      "output": {
+        "detected_categories": [
+          "Return or Refund"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_03",
+      "output": {
+        "detected_categories": [
+          "Damaged or Incorrect Item"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_04",
+      "output": {
+        "detected_categories": [
+          "Cancellation"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_05",
+      "output": {
+        "detected_categories": [
+          "Payment or Billing"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_06",
+      "output": {
+        "detected_categories": [
+          "Account Access"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_07",
+      "output": {
+        "detected_categories": [
+          "Product Question"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_08",
+      "output": {
+        "detected_categories": [
+          "Other"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_09",
+      "output": {
+        "detected_categories": [
+          "Return or Refund"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_10",
+      "output": {
+        "detected_categories": [
+          "Order Status"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_11",
+      "output": {
+        "detected_categories": [
+          "Other"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_12",
+      "output": {
+        "detected_categories": [
+          "Damaged or Incorrect Item"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_13",
+      "output": {
+        "detected_categories": [
+          "Return or Refund"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_14",
+      "output": {
+        "detected_categories": [
+          "Other"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_15",
+      "output": {
+        "detected_categories": [
+          "Order Status"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_16",
+      "output": {
+        "detected_categories": [
+          "Product Question"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_17",
+      "output": {
+        "detected_categories": [
+          "Damaged or Incorrect Item"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_18",
+      "output": {
+        "detected_categories": [
+          "Account Access"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_19",
+      "output": {
+        "detected_categories": [
+          "Account Access"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_20",
+      "output": {
+        "detected_categories": [
+          "Payment or Billing"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_21",
+      "output": {
+        "detected_categories": [
+          "Order Status",
+          "Payment or Billing"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_22",
+      "output": {
+        "detected_categories": [
+          "Damaged or Incorrect Item",
+          "Return or Refund"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_23",
+      "output": {
+        "detected_categories": [
+          "Cancellation",
+          "Order Status"
+        ],
+        "review_required": false
+      }
+    },
+    {
+      "test_id": "TEST_24",
+      "output": {
+        "detected_categories": [
+          "Other"
+        ],
+        "review_required": false
+      }
+    }
+  ]
+}

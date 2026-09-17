@@ -1,0 +1,264 @@
+{
+  "note": "Frozen case study expectations. These reflect the simulated retailer taxonomy and are not universal category truth.",
+  "cases": [
+    {
+      "test_id": "TEST_01",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_02",
+      "confirmed_categories": [
+        "Return or Refund"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_03",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_04",
+      "confirmed_categories": [
+        "Cancellation"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_05",
+      "confirmed_categories": [
+        "Payment or Billing"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_06",
+      "confirmed_categories": [
+        "Account Access"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_07",
+      "confirmed_categories": [
+        "Product Question"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_08",
+      "confirmed_categories": [
+        "Other"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_09",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item",
+        "Return or Refund"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_10",
+      "confirmed_categories": [
+        "Order Status",
+        "Payment or Billing"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_11",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_12",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_13",
+      "confirmed_categories": [
+        "Return or Refund"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_14",
+      "confirmed_categories": [],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_15",
+      "confirmed_categories": [],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_16",
+      "confirmed_categories": [
+        "Product Question"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_17",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_18",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_19",
+      "confirmed_categories": [
+        "Account Access",
+        "Product Question"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_20",
+      "confirmed_categories": [],
+      "uncertain_categories": [
+        "Payment or Billing"
+      ]
+    },
+    {
+      "test_id": "TEST_21",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": [
+        "Payment or Billing"
+      ]
+    },
+    {
+      "test_id": "TEST_22",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_23",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_24",
+      "confirmed_categories": [],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_25",
+      "confirmed_categories": [
+        "Other"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_26",
+      "confirmed_categories": [
+        "Other"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_27",
+      "confirmed_categories": [
+        "Payment or Billing"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_28",
+      "confirmed_categories": [
+        "Return or Refund"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_29",
+      "confirmed_categories": [],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_30",
+      "confirmed_categories": [],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_31",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_32",
+      "confirmed_categories": [],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_33",
+      "confirmed_categories": [],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_34",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_35",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_36",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": [
+        "Payment or Billing"
+      ]
+    },
+    {
+      "test_id": "TEST_37",
+      "confirmed_categories": [
+        "Damaged or Incorrect Item"
+      ],
+      "uncertain_categories": []
+    },
+    {
+      "test_id": "TEST_38",
+      "confirmed_categories": [
+        "Order Status"
+      ],
+      "uncertain_categories": []
+    }
+  ]
+}
